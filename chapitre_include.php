@@ -26,6 +26,7 @@
 
 <div id="contenu_2">
 	Ici mon bloc 2
+	correction sur la branche
 </div> <!-- fermeture contenu_2 -->
 
 <div id="clear"></div>
