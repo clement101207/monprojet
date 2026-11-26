@@ -22,6 +22,7 @@
 
 <div id="contenu_1">
 	Ici mon bloc principal du fichier php
+	Ce site vous présentera une branche
 </div> <!-- fermeture contenu_1 -->
 
 <div id="contenu_2">
